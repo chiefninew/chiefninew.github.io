@@ -1,8 +1,15 @@
 {
-  "main.css": "static/css/main.691799c6.css",
-  "main.css.map": "static/css/main.691799c6.css.map",
-  "main.js": "static/js/main.9a586dab.js",
-  "main.js.map": "static/js/main.9a586dab.js.map",
-  "static\\media\\npclogo.png": "static/media/npclogo.d9f63d0a.png",
-  "static\\media\\profile_image.jpg": "static/media/profile_image.24064b48.jpg"
+  "files": {
+    "main.css": "/static/css/main.c768106d.css",
+    "main.js": "/static/js/main.5e437cf9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/index.html",
+    "main.c768106d.css.map": "/static/css/main.c768106d.css.map",
+    "main.5e437cf9.js.map": "/static/js/main.5e437cf9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c768106d.css",
+    "static/js/main.5e437cf9.js"
+  ]
 }
